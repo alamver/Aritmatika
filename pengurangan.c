@@ -5,7 +5,7 @@ int main()
 	scanf("%d", &i);
 	scanf("%d", &j);
 		hasil=i-j;
-		printf("Hasil Pengurangan :");
+		printf("Hasil Pengurangan : ");
 		printf("%.1f\n",&hasil);
 	
 }
